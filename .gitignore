@@ -1,2 +1,4 @@
- phaser_tutorial_02
- phaser_tutorial_02.zip
+*.pyc
+__pycache__
+phaser_tutorial_02
+phaser_tutorial_02.zip
